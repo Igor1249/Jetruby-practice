@@ -1,2 +1,4 @@
-Test nano editor
-Test vim editor
+Use following command to ran ruby skript
+
+
+ruby hello.rb
